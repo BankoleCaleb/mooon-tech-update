@@ -1,0 +1,21 @@
+/*
+	#1a73e8
+	#01BAEF
+	#00E8F6
+	#2F2BD4
+	#074A87
+*/
+
+div {
+	height: 400px;
+	width: 400px;
+	border-radius: 50%;
+	/*background-color: red;
+	opacity: 0.5;*/
+	background: repeating-conic-gradient(from 0deg, 
+		#1a73e8 0deg 21.6deg,
+		#01BAEF 21.6deg 183.6deg,
+		#00E8F6 183.6deg 306deg,
+		#2F2BD4 306deg 336deg,
+		#074A87 336deg 360deg);
+}
